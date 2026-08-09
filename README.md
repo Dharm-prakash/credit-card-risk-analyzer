@@ -1,5 +1,5 @@
 # 💳 Credit Card Risk Analyzer
-
+link : https://credit-card-risk-analyzer-ef5tcdrjp9sbhl5njhveyw.streamlit.app/
 A machine learning application for predicting credit card default risk and identifying customer segments based on customer financial and payment behavior.
 
 ## 🎯 Project Objective
